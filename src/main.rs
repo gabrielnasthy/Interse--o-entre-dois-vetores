@@ -2,7 +2,8 @@
 // Professor : Alan Furukawa
 // Descrição : Intersecção entre duas Retas/Vetores
 // Autor(a) : Gabriel Aguiar Rocha
-// Data atual : 30/11/2021
+// Data atual : 30/11/20242
+
 use std::io;
 
 fn ler() -> i32 {
